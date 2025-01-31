@@ -50,7 +50,7 @@ Contributions are welcome! If you'd like to improve this project:
 5. Open a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 ✅ Happy Coding!
